@@ -1,0 +1,169 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .snip1226 li {
+        margin-left: 5px;
+    }
+    .header-area .ph-no p {
+        margin-left: -1px;
+        font-size: 15px;
+    }
+    .wrapper .img-sec .img.wow.pulse {
+        margin-top: -3px;
+    }
+    .services .work button i {
+        margin-right: 5px;
+    }
+    .services .text h3 {
+        font-size: 60px;
+    }
+    .services .text p {
+        font-size: 18px;
+    }
+    .experience .ex .t {
+        padding-bottom: 40px;
+    }
+    .experience .ex .t.\31 {
+        padding-bottom: 0px;
+    }
+    .footer .text .t2 {
+        padding-left: 50px;
+    }
+    .footer .text h1 {
+        font-size: 45px;
+    }
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    #mobile-menu {
+        display: none;
+    }
+    .slicknav_menu {
+        display: block;
+    }
+    .header-area .logo {
+        width: 220%;
+        margin-top: 10px;
+    }
+    .header-area .menu .snip1226 li {
+        padding-left: 10px;
+        margin: 0;
+    }
+    .header-area .menu ul.snip1226 {
+        padding: 0;
+    }
+    .wrapper .img-sec .img.wow.pulse {
+        margin-top: 0;
+    }
+    .wrapper .text h1 {
+        padding-top: 60px;
+        font-size: 50px;
+    }
+    .wrapper .text h5 {
+        padding-top: 80px;
+    }
+    .wrapper .img-sec .ex {
+        margin-top: 40px;
+    }
+    .wrapper .img-sec .ex p {
+        font-size: 16px;
+    }
+    .wrapper .img-sec .ex .p1 {
+        font-size: 25px;
+    }
+    .experience .ex .img {
+        display: none;
+    }
+    .experience .ex .mdh {
+        display: none;
+    }
+    .slicknav_nav li, .slicknav_nav ul {
+        margin-bottom: 30px;
+    }
+    .slicknav_menu .slicknav_menutxt {
+        display: none;
+    }
+    .slicknav_menu {
+        background-image: url(bg1.jpg);
+    }
+    .slicknav_menu .slicknav_icon-bar {
+        background-color: #e67e22;
+    }
+    .slicknav_btn {
+        background: none;
+    }
+    .slicknav_menu .slicknav_icon-bar {
+        width: 78px;
+        height: 5px;
+        margin-bottom: 12px;
+    }
+    .slicknav_nav a {
+        color: #474646;
+    }
+    .slicknav_menu .slicknav_icon {
+        width: 80px;
+        height: 40px;
+    }
+    .work .head h5 {
+        font-size: 40px;
+    }
+    .work .head p {
+        font-size: 18px;
+    }
+    .notes .head p {
+        font-size: 17px;
+    }
+    .notes .item {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .notes .item p {
+        font-size: 16px;
+    }
+    .footer .text h1 {
+        font-size: 35px;
+    }
+    .footer .text h3 {
+        font-size: 40px;
+    }
+    .footer .text p.p2 {
+        font-size: 40px;
+    }
+    .footer .text p {
+        font-size: 16px;
+
+    }
+    .footer .footer2 .text1 p {
+        font-size: 13px;
+    }
+    .footer .footer2 .img {
+        width: 16%;
+    }
+
+
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
